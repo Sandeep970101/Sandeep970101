@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Sandeep970101
-- 👀 I’m interested in software designing...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hello there! I'm Sandeep Pamuditha, an undergraduate software engineer passionate about crafting elegant solutions to complex problems.
 
-<!---
-Sandeep970101/Sandeep970101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Currently pursuing my degree in Software Engineering with a focus on gaining software development industry experience at Cardiff metro campus.
+
+💻 Proficient in a variety of programming languages including Java, Python, and PHP.
+
+🛠️ Experienced in building web applications, developing algorithms, and solving real-world problems through code.
+
+🔍 Always eager to learn and explore new technologies, with a keen interest in DevOps culture and Data analytics.
+
+🚀 Actively seeking internships and opportunities to contribute to impactful projects that challenge and inspire me.
