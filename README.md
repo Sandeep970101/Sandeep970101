@@ -17,7 +17,7 @@
 
 <h3 align="center">Statictics </h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeep970101&show_icons=true&locale=en&layout=compact" alt="sandeep970101" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeep970101&show_icons=true&locale=en&layout=compact" alt="sandeep970101" width="200" height="200" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeep970101&show_icons=true&locale=en" alt="sandeep970101" /></p>
 
@@ -51,7 +51,7 @@
 
 ---
 
-<h3 align="center">Connect with me with :</h3>
+<h3 align="center">Connect with me with </h3>
 <p align="center">
 <a href="https://linkedin.com/in/sandeep-pamuditha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeep-pamuditha" height="20" width="30" /></a>
 </p>
