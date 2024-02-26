@@ -4,15 +4,22 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sandeep970101&label=Profile%20views&color=0e75b6&style=flat" alt="sandeep970101" /> </p>
 
 
-- 🌱 I’m currently learning **Flutter, Machine Learning**
 
-- 🤝 I’m looking for help with **Flutter**
+<div>
+  <div align="left">
+    
+    - 🌱 I’m currently learning **Flutter, Machine Learning**
+    
+    - 🤝 I’m looking for help with **Flutter**
+    
+    - 📫 How to reach me **Sandeep97godage@gmail.com**
+    
+    - ⚡ Fun fact **I think I am funny ;)**
 
-- 📫 How to reach me **Sandeep97godage@gmail.com**
+  </div>
+</div>
 
-- ⚡ Fun fact **I think I am funny ;)**
-
-<div align="center">
+<div align="right">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeep970101&show_icons=true&locale=en&layout=compact" alt="sandeep970101"  />
 </div>
 
