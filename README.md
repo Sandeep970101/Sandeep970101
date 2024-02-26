@@ -13,7 +13,7 @@
 - ⚡ Fun fact **I think I am funny ;)**
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools :</h3>
 <p align="left"> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Light.svg" alt="aws" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/ </a>
@@ -39,13 +39,13 @@
 <!-- <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>  -->
 </p>
 
-<h3 align="left">Overall Commits:</h3>
+<h3 align="left">Statictics :</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeep970101&show_icons=true&locale=en&layout=compact" alt="sandeep970101" /></p><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeep970101&show_icons=true&locale=en" alt="sandeep970101" /></p><be>
 
-<h3 align="left">Connect with me with:</h3>
+<h3 align="left">Connect with me with :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sandeep-pamuditha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeep-pamuditha" height="20" width="30" /></a>
 </p><br>
