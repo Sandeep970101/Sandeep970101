@@ -17,9 +17,8 @@
 
 <h3 align="center">Statictics </h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeep970101&show_icons=true&locale=en&layout=compact" alt="sandeep970101" width="380" height="380" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeep970101&show_icons=true&locale=en&layout=compact" alt="sandeep970101" width="380" height="380" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeep970101&show_icons=true&locale=en" alt="sandeep970101"  /></p>
 
 ---
 
