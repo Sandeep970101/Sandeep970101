@@ -16,7 +16,7 @@
 ---
 
 
-<h3 align="center">Languages and Tools </h3><br>
+<h3 align="center">Languages and Tools </h3>
 
 <p align="center" >
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeep970101&show_icons=true&locale=en&layout=compact" alt="sandeep970101"  />
