@@ -48,6 +48,6 @@
 
 <h3 align="center">Connect with me with </h3>
 <p align="center">
-<a href="https://linkedin.com/in/sandeep-pamuditha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeep-pamuditha" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sandeep-pamuditha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeep-pamuditha" height="20" width="30" /></a>
 </p>
 
