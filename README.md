@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sandeep Pamuditha</h1>
-<h3 align="center">Let's build something great together! 💻✨</h3>
+<h3 align="center">Let's build something great together! 💻✨ <p align="center"> <img src="https://komarev.com/ghpvc/?username=sandeep970101&label=Profile%20views&color=0e75b6&style=flat" alt="sandeep970101" /> </p></h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sandeep970101&label=Profile%20views&color=0e75b6&style=flat" alt="sandeep970101" /> </p>
+
 
 - 🌱 I’m currently learning **Flutter, Machine Learning**
 
