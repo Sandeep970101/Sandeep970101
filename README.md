@@ -4,7 +4,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sandeep970101&label=Profile%20views&color=0e75b6&style=flat" alt="sandeep970101" /> </p>
 
 
-
 <div display="flex">
   <div align="left">
     
@@ -17,10 +16,9 @@
     - ⚡ Fun fact **I think I am funny ;)**
 
   </div>
-</div>
-
-<div align="right">
+  <div align="right">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeep970101&show_icons=true&locale=en&layout=compact" alt="sandeep970101"  />
+  </div>
 </div>
 
 <p></p>
