@@ -5,7 +5,7 @@
 
 
 <div display="flex">
-  <div align="left">
+  <div align="left" width="50%">
     
     - 🌱 I’m currently learning **Flutter, Machine Learning**
     
