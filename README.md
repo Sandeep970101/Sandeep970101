@@ -3,9 +3,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sandeep970101&label=Profile%20views&color=0e75b6&style=flat" alt="sandeep970101" /> </p>
 
-
-<div >
-  <div align="left" width="50%">
     
     - 🌱 I’m currently learning **Flutter, Machine Learning**
     
@@ -15,11 +12,9 @@
     
     - ⚡ Fun fact **I think I am funny ;)**
 
-  </div>
-  <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeep970101&show_icons=true&locale=en&layout=compact" alt="sandeep970101"  />
-  </div>
-</div>
+
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeep970101&show_icons=true&locale=en&layout=compact" alt="sandeep970101"  />
+
 
 <p></p>
 
