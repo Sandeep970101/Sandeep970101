@@ -16,9 +16,7 @@
 
 <h3 align="center">Languages and Tools </h3>
 
-<p align="center" >
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeep970101&show_icons=true&locale=en&layout=compact" alt="sandeep970101"  />
-</p><br>
+
         
 <p align="center"> 
 <!-- <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>  -->
