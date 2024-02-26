@@ -12,7 +12,7 @@
     
     - ⚡ Fun fact **I think I am funny ;)**
 
-<div margin "20">
+<div margin-top "40">
       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeep970101&show_icons=true&locale=en&layout=compact" alt="sandeep970101"  />
 </div>
 
