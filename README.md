@@ -21,9 +21,8 @@
 
 <h3 align="center">Languages and Tools </h3><br>
 
-<div margin-top "50">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeep970101&show_icons=true&locale=en&layout=compact" alt="sandeep970101"  />
-</div><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeep970101&show_icons=true&locale=en&layout=compact" alt="sandeep970101"  />
+<br>
 
 <p align="center"> 
 <!-- <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>  -->
