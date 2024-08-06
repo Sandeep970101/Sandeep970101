@@ -3,9 +3,9 @@
 
 
 
-- 🌱 I’m currently learning **Flutter, Machine Learning**
+- 🌱 I’m currently learning **Frontend development, javascript, AWS and Machine Learning**
 
-- 🤝 I’m looking for help with **Flutter**
+- 🤝 I’m looking for help with **Fullstack development**
 
 - 📫 How to reach me **Sandeep97godage@gmail.com**
 
