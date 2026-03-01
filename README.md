@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **Frontend development, JavaScript, Next.js, AWS, and Machine Learning**
 - 🧩 I’m interested in **AI automation, fullstack apps, and cloud-native solutions**
 - 🤝 I’m open to collaborating on **Fullstack and AI automation projects**
-- 📫 Reach me at: **Sandeep@gmail.com**
+- 📫 Reach me at: **Sandeep97godage@gmail.com**
 - ⚡ Fun fact: **I think I am funny ;)**
 
 ---
